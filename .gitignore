@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+.vscode/
+
+datos/*.csv
+datos/*.json
+datos/*.pdf
